@@ -1,1 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+}
 
